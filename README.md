@@ -1,0 +1,1 @@
+ A C++ simulation of the Linux Completely Fair Scheduler (CFS). This project models the logic used in the Linux kernel to ensure fair CPU distribution among competing processes, focusing on virtual runtime management and task synchronization.
